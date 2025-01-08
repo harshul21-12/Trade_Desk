@@ -11,7 +11,7 @@ Unit Testing:
 
 
 
-This project implements
+This project implements  
 1.Simple Moving Average (SMA) Crossover Strategy  
 2. Volume Weighted Momentum (VWM) Strategy  
 for backtesting financial data. It includes backtesting functionality, signal visualization,unit testing and performance metric calculation.  
