@@ -1,8 +1,14 @@
 # Algorithmic Trading with Backtesting Project
-
+Simple Moving Average plot:
 ![Screenshot (31)](https://github.com/user-attachments/assets/801dd52f-03f7-41bd-b151-659b1aea4e59)
+Backtracking results:
 ![trade_desk metrics](https://github.com/user-attachments/assets/d6289c30-cff5-48d3-94be-d03380a6b8be)
+Volume Weighted Momentum plot
 ![VWM result](https://github.com/user-attachments/assets/57b7b06c-4c59-44af-b1c9-cf8a6351b3a1)
+Unit Testing:
+![unit_test_fail](https://github.com/user-attachments/assets/66b1c749-82fe-452b-bbe0-955fc55af79e)
+![unit_test_ok](https://github.com/user-attachments/assets/2e227644-814e-4411-bd5b-d49078545001)
+
 
 
 This project implements
